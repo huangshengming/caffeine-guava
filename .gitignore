@@ -1,0 +1,11 @@
+*/target
+/common/target
+*/logs
+*.tar.gz
+/lib
+*/bin
+*/*.project
+*/*.classpath
+*.prefs
+/.idea
+*/*.iml
